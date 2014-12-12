@@ -1,10 +1,4 @@
-/*   
- * jcLoader()  一个简单的 js、css动态加载 api   
- * jcLoader().load(url,callback)  加载函数 支持链式操作   
- * -url 需要加载的 js/css 地址，支持同时加载多个 地址之间用 ‘，’隔开   
- * -callback 加载完成 url里面的文件之后触发的事件   
- * ---------------------------------------------------   
- * example:   
+
   
 完整版：   
 jcLoader().load({   
